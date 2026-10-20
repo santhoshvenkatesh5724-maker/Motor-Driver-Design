@@ -1,0 +1,18 @@
+# Treat fab and EDA outputs as binary so diffs/line-ending conversion don't corrupt them
+*.zip binary
+*.epro binary
+*.eprj binary
+*.pdf binary
+*.step binary
+*.GKO -text
+*.GTL -text
+*.GBL -text
+*.G1 -text
+*.G2 -text
+*.GTO -text
+*.GBO -text
+*.GTS -text
+*.GBS -text
+*.GTP -text
+*.GBP -text
+*.DRL -text

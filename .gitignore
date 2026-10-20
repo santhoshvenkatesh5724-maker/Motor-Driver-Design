@@ -1,0 +1,11 @@
+# EasyEDA / OS clutter
+*.bak
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local backups and scratch
+backup/
+_to_delete/
